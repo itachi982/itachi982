@@ -1,6 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal </h1>
+<p>
+  Highly motivated Full Stack developer and passionate Cyber Security expert with exceptional skills in development and penetration
+  testing across diverse environments. Strong expertise in writing industry- standard code and adhering to best practices. Committed to continued
+  learning and excellence.
+</p>
 
 
 <h3 align="left">Let's Connect:</h3>
@@ -23,7 +28,7 @@
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack: </h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -58,7 +63,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=itachi982&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+<h3 align="left">Certification : </h3>
+
+<div id="Certifications" align = "center">
+  <img src="https://img.shields.io/badge/CEH-Certified-green.svg" alt="CEH">
+  <img src="https://img.shields.io/badge/CRTP-Certified-green.svg" alt="CRTP">
+  <img src="https://img.shields.io/badge/AZ--900-Certified-green.svg" alt="AZ-900">
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
+
