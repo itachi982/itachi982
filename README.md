@@ -73,8 +73,5 @@
   <img src="https://img.shields.io/badge/AZ--900-Certified-green.svg" alt="AZ-900">
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
+<img src="https://raw.githubusercontent.com/itachi982/itachi982/output/snake.svg" alt="Snake animation" />
 
