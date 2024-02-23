@@ -73,5 +73,5 @@
   <img src="https://img.shields.io/badge/AZ--900-Certified-green.svg" alt="AZ-900">
 
 </div>
-<img src="https://raw.githubusercontent.com/itachi982/itachi982/output/snake.svg" alt="Snake animation" />
 
+![Snake animation](https://github.com/itachi982/itachi982/blob/output/github-contribution-grid-snake.svg)
