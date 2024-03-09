@@ -62,7 +62,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itachi982&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <h3 align="left">Certification : </h3>
